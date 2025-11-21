@@ -1,0 +1,91 @@
+/*=========================================================
+   🧹 SheePochek Reset CSS
+   Современный минималистичный сброс стилей
+   Создан для комфортной, предсказуемой и чистой разработки
+   =========================================================*/
+
+/* Глобальный бокс-сайзинг для всей страницы */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Улучшенный рендеринг шрифтов + плавный скролл*/
+html {
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+}
+
+/*Базовые параметры body*/
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+  font-smooth: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ссылки */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Списки */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Медиа элементы */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* Формы */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+/* Кнопки */
+button {
+  cursor: pointer;
+}
+
+/* Таблицы */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Заголовки — убираем дефолтные размеры */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font: inherit;
+  font-weight: inherit;
+}
+
+/*Фокус — доступность, но без уродства */
+:focus-visible {
+  outline: 2px solid #8aa0ff;
+  outline-offset: 3px;
+}
