@@ -1,7 +1,7 @@
 # 🧹 SheePochek Reset CSS  
 
 <p align="center">
-  <img src="https://media.gifdb.com/frieren-reading-books-kicking-feet-xll7nsvapp2qe0oo.gif" width="300">
+  <img src="https://gifdb.com/images/high/frieren-reading-books-kicking-feet-xll7nsvapp2qe0oo.webp" width="300">
 </p>
 
 Современный, легкий и удобный reset файл, созданный для комфортной и чистой веб-разработки.  
