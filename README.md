@@ -1,11 +1,11 @@
 # 🧹 SheePochek Reset CSS  
 
 <p align="center">
-  <img src="[https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif](https://media.gifdb.com/frieren-reading-books-kicking-feet-xll7nsvapp2qe0oo.gif)" width="300">
+  <img src="https://media.gifdb.com/frieren-reading-books-kicking-feet-xll7nsvapp2qe0oo.gif" width="300">
 </p>
 
-Современный, лёгкий и удобный reset-файл, созданный для комфортной и чистой веб-разработки.  
-Этот reset.css — мой личный стиль сброса стилей, который я использую во всех своих проектах.
+Современный, легкий и удобный reset файл, созданный для комфортной и чистой веб-разработки.  
+Этот reset.css — мой личный стиль сброса стилей
 
 ---
 
